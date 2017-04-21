@@ -1,2 +1,2 @@
-# sombrerobrowser
-The browser of Sombrero is a browser developed by me and only me.
+# Sombrero Browser
+The Sombrero Browser is a project.
