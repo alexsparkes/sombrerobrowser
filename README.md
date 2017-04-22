@@ -1,2 +1,2 @@
 # Sombrero Browser
-The Sombrero Browser is a project.
+A fast, open-source browser made in C#
